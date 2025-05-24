@@ -1,9 +1,8 @@
 # EMG-Signal-Generation-using-Wasserstein-GAN-WGAN-
-## 🧠 EMG Signal Generation using Wasserstein GAN (WGAN)
 
 This project implements a **Wasserstein Generative Adversarial Network (WGAN)** to generate synthetic EMG (Electromyography) signals based on real data.
 
-### 📦 Description
+### Description
 
 The code trains a WGAN consisting of:
 - A **Generator** that learns to produce fake EMG signals from random noise.
